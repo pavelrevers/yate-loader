@@ -1,0 +1,17 @@
+{
+  "author": "pavelrevers",
+  "name": "yate-loader",
+  "version": "0.1.0",
+  "main": "src/main.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:pavelrevers/yate-loader.git"
+  },
+  "engines": {
+    "node": ">=0.10"
+  },
+  "dependencies": {
+    "loader-utils": "^0.2.11",
+    "yate": "0.0.79"
+  }
+}
